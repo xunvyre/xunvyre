@@ -3,6 +3,9 @@ Thanks for visiting my GitHub profile! I'm a soon-to-be graduate of the UCF Full
 so right now you'll find a lot of school projects and assignments my portfolio. I'm planning on commenting these assignments out further
 once the class is done to help future students get started on their own projects!
 
+## Starred Projects
+All of my projects have been sorted into lists to make thing easier to find! Click the "Stars" tab to get started.
+
 ## Contact Me
 Please reach out to me with any questions or suggestions! I'm also actively searching for employment and freelance opportunities.
 * Github: [xunvyre](https://github.com/xunvyre/)
