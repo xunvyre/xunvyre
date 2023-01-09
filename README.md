@@ -1,5 +1,5 @@
 # Hi, I'm Victoria!
-Thanks for visiting my GitHub profile! I'm a soon-to-be graduate of the UCF Full Stack Development boot camp,
+Thanks for visiting my GitHub profile! I just recieved my certification from the UCF Full Stack Development boot camp,
 so right now you'll find a lot of school projects and assignments in my portfolio. I'm planning on commenting these assignments out further
 once the class is done to help future students get started on their own projects!
 
