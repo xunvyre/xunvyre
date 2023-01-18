@@ -8,8 +8,8 @@ All of my projects have been sorted into lists to make thing easier to find! Cli
 
 ## Contact Me
 Please reach out to me with any questions or suggestions! I'm also actively searching for employment and freelance opportunities.
-* Github: [xunvyre](https://github.com/xunvyre/)
-* Email: xunvyre@gmail.com
+* Github: [You're here!](https://github.com/xunvyre/)
+* Email: victoria@thedavids.us
 * Portfolio: [David Designs](https://xunvyre.github.io/daviddesigns/)
 
 <!---
