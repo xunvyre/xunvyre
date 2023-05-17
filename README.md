@@ -1,7 +1,8 @@
 # Hi, I'm Victoria!
 Thanks for visiting my GitHub profile! I just recieved my certification from the UCF Full Stack Development boot camp,
-so right now you'll find a lot of school projects and assignments in my portfolio. I'm planning on commenting these assignments out further
-once the class is done to help future students get started on their own projects!
+so right now you'll find a lot of school projects and assignments in my portfolio. I am currently in the process of commenting my assignments out further to help future students get started on their own projects, and to continually renew and refresh my skills and my work!
+
+* As a warning, all of my sites are optimized for Firefox because that is my personal preference, but I test them in a Chromium browser to ensure compatibility. Some things still may misalign for certain users!
 
 ## Starred Projects
 All of my projects have been sorted into lists to make thing easier to find! Click the "Stars" tab to get started.
