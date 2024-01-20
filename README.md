@@ -10,8 +10,8 @@ All of my projects have been sorted into lists to make thing easier to find! Cli
 ## Contact Me
 Please reach out to me with any questions or suggestions! I'm also actively searching for employment and freelance opportunities.
 * Github: [You're here!](https://github.com/xunvyre/)
-* Email: victoria@thedavids.us
-* Portfolio: [David Designs](https://xunvyre.github.io/daviddesigns/)
+* Email: thedigitalguineapig@gmail.com
+* Portfolio: [Digital Guinea Pig](https://digitalguineapig.myportfolio.com/)
 
 <!---
 xunvyre/xunvyre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
